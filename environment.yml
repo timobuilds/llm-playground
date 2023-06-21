@@ -1,0 +1,26 @@
+name: ai-labs
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - langchain
+  - PyPDF2
+  - python-dotenv
+  - streamlit
+  - openai
+  - faiss-cpu
+  - altair
+  - tiktoken
+  - transformers
+  #- tensorflow
+  - wikipedia
+  #- cython
+  - lxml
+  - pip
+  - pip:
+    - llama_index
+    - unstructured
+    - pdfmerge
+    - chromadb
+    #- torch
+    
