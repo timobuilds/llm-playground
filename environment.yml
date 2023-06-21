@@ -12,7 +12,7 @@ dependencies:
   - altair
   - tiktoken
   - transformers
-  #- tensorflow
+  - tensorflow
   - wikipedia
   #- cython
   - lxml
@@ -22,5 +22,5 @@ dependencies:
     - unstructured
     - pdfmerge
     - chromadb
-    #- torch
+    - torch
     
