@@ -5,37 +5,25 @@
  This is a collection of baisc AI apps built with Streamlit. 
  It provides some examples of what LLMs can do!
 
-#### 🔎 Research Assistant 🪄
+### 🔎 Research Assistant 🪄
 
 What it does: 
 Ask a research question, get a thread of actionable article summaries source from filtered Google searches.  
 
-How it works:
-------------
-1. Convert....
 
-
-#### 🎙️ Keynote Talk Generator
+### 🎙️ Keynote Talk Generator
 
 What it does: 
 Ask a question, get a tight keynote presentation outline with topics summaries from Wikipedia. 
 
-How it works:
-------------
-1. Convert....
-    
 
-#### 💬 Chat with Reports
+### 💬 Chat with Reports
 
 What it does: 
 Upload PDF reports and chat with them to better understand their context. 
 
-How it works:
-------------
-1. Convert....
 
-
-#### 🖼️ Utopian Narratives 🗣️
+### 🖼️ Utopian Narratives 🗣️
 
 What it does: 
 Upload a picture, get a short utopian audio story inspired by the scene. 
